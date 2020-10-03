@@ -37,12 +37,12 @@
 
 (11) Who is the intended user for your application/UI?
 
-   Our users are mainly cryptocurrency investors. The data involved in this project will only be available to ourself and may be open to senior market-maker customers of Deepcoin in the future, but not for the time being.
+	Our users are mainly cryptocurrency investors. The data involved in this project will only be available to ourself and may be open to senior market-maker customers of Deepcoin in the future, but not for the time being.
 
 (12) Do you have any users already or plans to acquire users soon?
 
-   Our exchange has been online for 2 years and currently has more than 10,000 active users per day.
+	Our exchange has been online for 2 years and currently has more than 10,000 active users per day.
 
 (13) What challenges do you anticipate with this project?
 
-   The cost and security of future data storage.
+	The cost and security of future data storage.
