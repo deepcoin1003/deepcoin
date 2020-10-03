@@ -19,9 +19,11 @@
 
 (4) If your project is using a curated dataset, which one are you using?
 
+	Data are obtained from many public chains and analyzed and predicted
 
 (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
+	Analyze the whole network of some reliable chain trading information
 
 (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
@@ -29,11 +31,19 @@
 	
 (7) How are you structuring the data?
 
+	Data parsed from different public chains will be structured and saved.
+	
 (8) What pre-processing are you doing before ingesting the data?
+
+	After the data is obtained, it will be classified and collected by our customized program, and the data with reference value will be extracted and saved
 
 (9) What tech stack will you use to store the data?
 
+	Data centers and object storage on the cloud
+
 (10) How will you retrieve the data?
+
+	The data will be extracted by our program and pushed to the customer, or we will provide the user with the data needed to retrieve it
 
 (11) Who is the intended user for your application/UI?
 
